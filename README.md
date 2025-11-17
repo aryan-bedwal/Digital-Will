@@ -87,3 +87,9 @@ Charity Integration: Easy donation options to registered charities
 Tax Optimization: Smart contract logic to handle tax implications
 Family Trees: Visual representation of inheritance chains across generations
 Backup Executors: Designate trusted parties to facilitate execution if needed
+
+deployed contract address: 
+0xB65d1130d5Eb9F48D63431C8662C726732aE2Ed2
+
+<img width="1364" height="605" alt="image" src="https://github.com/user-attachments/assets/e716e2f5-70fc-42f4-bb2a-c10beacfd7e3" />
+
